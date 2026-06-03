@@ -1,0 +1,15 @@
+{
+  "coding profiles": "Coding Profiles\nLeetCode - 100+ problems solved https://leetcode.com/u/kishorer2K7/",
+  "kishore r": "KISHORE R",
+  "certifications": "CERTIFICATIONS",
+  "ai developer": "AI DEVELOPER\nIntroduction to Internet of Things (NPTEL)\nkishorerajaj65@gmail.com | https://www.linkedin.com/in/kishorer2k7/ | https://github.com/KishoreR2k7",
+  "professional summary": "PROFESSIONAL SUMMARY\nSecond-year B.Tech student specializing in Artificial Intelligence and Data Science with strong interest in Machine Learning, Deep Learning, Computer Vision, and Generative AI. Skilled in Python-based AI development and objectoriented programming using Java and Python. Passionate about building intelligent systems and solving real-world problems using AI technologies.",
+  "education": "Education\nB.Tech - Artificial Intelligence and Data Science\nBannari Amman Institute of Technology\nExpected Graduation: 2028\nCGPA: 7.73",
+  "skills": "Skills",
+  "technical skills": "Technical Skills :\nPython (AI/ML, Data Science, OOP)\nJava (OOP)\nC (Programming Fundamentals)",
+  "web development": "Web Development :\nHTML\nCSS\nJavaScript\nFlask (AI Web\nApplications)",
+  "projects": "Projects\nReal-Time Face Recognition Attendance System:\nBuilt an AI-powered attendance system using Computer Vision and Deep Learning\nImplemented real-time face detection and recognition\nDeveloped a React-based dashboard for student and admin management\nIntegrated Google OAuth authentication and JWT security\nEnabled live camera monitoring and automated attendance recording",
+  "ai invoice information extraction system": "AI Invoice Information Extraction System\nDeveloped an AI system to automatically extract structured data from invoices using OCR, Vision-Language Models, and Large Language Models\nImplemented OCR pipeline to extract text from invoice images and PDFs\nUsed VLM-based document understanding to identify key invoice fields\nApplied LLM-based parsing to convert extracted text into structured data formats\nAutomated invoice processing workflow to reduce manual data entry",
+  "artificial intelligence": "Artificial Intelligence :\nMachine Learning\nDeep Learning\nComputer Vision\nGenerative AI\nLLM Handling\nRAG\nAgentic AI",
+  "libraries & tools": "Libraries & Tools :\nNumPy\nPandas\nScikit-learn\nOpenCV\nGit\nJupyter Notebook\nPyTorch and TensorFlow"
+}

@@ -1,0 +1,4 @@
+.env
+client_backup/
+client_old/
+node_modules/

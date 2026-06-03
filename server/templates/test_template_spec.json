@@ -1,0 +1,63 @@
+{
+  "color_palette": {
+    "primary": "#000000",
+    "secondary": "#000000",
+    "background": "#FFFFFF",
+    "text": "#000000"
+  },
+  "typography": {
+    "h1": {
+      "font_family": "Arial",
+      "size_pt": 24,
+      "weight": "bold",
+      "text_transform": "uppercase"
+    },
+    "h2": {
+      "font_family": "Arial",
+      "size_pt": 18,
+      "weight": "bold",
+      "text_transform": "uppercase"
+    },
+    "body": {
+      "font_family": "Arial",
+      "size_pt": 12,
+      "weight": "normal",
+      "line_height": 1.5
+    }
+  },
+  "layout": {
+    "columns": 2,
+    "column_ratio": "70:30",
+    "margins": {
+      "top": "20pt",
+      "bottom": "20pt",
+      "left": "20pt",
+      "right": "20pt"
+    }
+  },
+  "sections_layout": {
+    "main_column": [
+      "personalInfo",
+      "summary",
+      "experience",
+      "education",
+      "projects",
+      "skills",
+      "certifications",
+      "languages",
+      "custom"
+    ],
+    "sidebar_column": [
+      ""
+    ]
+  },
+  "visual_elements": {
+    "dividers": {
+      "present": true,
+      "color": "#000000",
+      "thickness": "1px"
+    },
+    "bullet_style": "round",
+    "icon_usage": "contact_only"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "contact": "CONTACT\n+91 6383876196\narjunhareeshsenthil@gmail.com\nTiruppur,tamilnadu,India\nhttps://www.linkedin.com/in/ar junhareesh25/\nhttps://github.com/arjunhareeshs",
+  "tech skills": "TECH SKILLS\nc programming\npython\njava (basics)\nData strucutres\ntensorflow and pytorch\ndata science\nmachine learning\ndeeplearning\nGenerative AI (transformers)\nAI agents and Automation",
+  "soft skills": "SOFT SKILLS\nTeamwork\nTime Management\nLeadership\nCritical Thinking",
+  "languages": "LANGUAGES\nEnglish\nTamil",
+  "arjun hareesh s": "ARJUN HAREESH S\nAI AND BI DEVELOPER",
+  "profile": "PROFILE\nI am an AI researcher at Bannari Amman Institute of Technology building intelligent systems that think and evolve. I transform cutting-edge research into production-from LLMs to autonomous agents-thriving where complexity meets innovation. My mission: architect AI that defines tomorrow's technological frontier.",
+  "projects": "PROJECTS\nReal Time Resume Analyser\nIt analysis the real time score of a resume uploaded\nit is built using python language\nwebframeworks are streamlit and SQLlite\nHand sign preedictor\nIt analysis the sign and report what it is.\nit is built using python language and YOLOv8 model\nwebframeworks are gradio and SQLlite\nText generator\nIt generates text using a transformer model\nit is built using python language ,tennsorflow and pytorch\nwebframeworks are gradio and SQLlite\nImage classifier\nIt classifies image of butterfly using CNN\nit is built using python language ,tennsorflow and pytorch\nwebframeworks are gradio and SQLlite",
+  "certifications": "CERTIFICATIONS\nCertified by Avinash Academy on C,C++,python basics\nNPTEL :Buisness fundamentals for entrepeuners",
+  "education": "EDUCATION\nschool : M.S . Vidyalaya Matriculation school\npercentage :93 % (10 th std)\npercentage :90 % (12 th std)\nBannri amman institute of technology\ndegree : B.TECH - Artificial intelligence and data science\ncGPA:\n8.28\n2011 - 2024\n2024 - 2026"
+}

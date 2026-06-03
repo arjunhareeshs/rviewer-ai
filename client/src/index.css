@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg-primary: #FAFAF9;      /* Warm cream */
+    --bg-surface: #FFFFFF;      /* Clean white */
+    --bg-subtle: #F5F3EF;       /* Slightly darker cream for hover/accents */
+    
+    --text-primary: #1A1A1A;    /* Almost black */
+    --text-secondary: #6B6B6B;  /* Muted gray */
+    --text-muted: #9CA3AF;      /* Lighter gray for placeholders */
+    
+    --accent: #4F46E5;          /* Indigo 600 */
+    --accent-soft: #EEF2FF;     /* Indigo 50 */
+    
+    --border: #E5E5E5;          /* Light gray border */
+    
+    --success: #059669;         /* Emerald 600 */
+    --warning: #D97706;         /* Amber 600 */
+    --danger: #DC2626;          /* Red 600 */
+    --danger-soft: #FEF2F2;     /* Red 50 */
+  }
+
+  html, body {
+    @apply bg-cream text-text-primary antialiased h-full w-full font-sans;
+  }
+  
+  #root {
+    @apply h-full w-full;
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply bg-white/70 backdrop-blur-xl border border-white/20 shadow-sm;
+  }
+  .glass-dark {
+    @apply bg-black/40 backdrop-blur-2xl border border-white/10;
+  }
+  .text-gradient {
+    @apply text-transparent bg-clip-text bg-gradient-to-r from-accent to-blue-400;
+  }
+}
